@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+form
+{
+	font-weight: bold;
+}
+button
+{
+	padding: 8px 15px;
+	border-radius: 5px;
+}
